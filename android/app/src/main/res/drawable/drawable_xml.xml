@@ -2,11 +2,8 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-
     <item>
-        <bitmap
-            android:gravity="center"
-            android:src="@mipmap/ic_launcher"/>
+        <bitmap android:src="@drawable/travelbd"/>
     </item>
 
 </layer-list>
